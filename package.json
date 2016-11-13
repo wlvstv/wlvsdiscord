@@ -44,7 +44,11 @@
   "repository": "https://github.com/mshope/wlvsdiscord.git",
   "scripts": {
     "prepublish": "gulp prepublish",
-    "test": "gulp"
+    "test": "gulp",
+    "start": "node ./lib/wlvsbot.js"
+  },
+  "dependencies": {
+    "discord.js":"latest"
   },
   "license": "unlicense"
 }
