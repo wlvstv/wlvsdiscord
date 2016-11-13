@@ -1,2 +1,2 @@
 # wlvsdiscord
-wlvs discordf bot :)
+wlvs discord bot :)
