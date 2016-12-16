@@ -1,17 +1,17 @@
 {
   "name": "wlvsbot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wolves Discord Bot",
-  "homepage": "",
+  "homepage": "wlvs.tv",
   "author": {
-    "name": "Mike Shope",
+    "name": "Decoy",
     "email": "mike@wlvs.tv",
     "url": ""
   },
   "files": [
     "dist"
   ],
-  "main": "dist/index.js",
+  "main": "dist/wlvsbot.js",
   "keywords": [
     ""
   ],
