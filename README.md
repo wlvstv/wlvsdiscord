@@ -7,8 +7,6 @@ You will also need [git](https://git-scm.com/) for source control.
 Once you have the the project downloaded navigate to the directory in bash and execute the following command:
 
 ```
-#!javascript
-
 npm install
 ```
 This will install the needed node dependencies.
