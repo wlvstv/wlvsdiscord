@@ -1,9 +1,0 @@
-exports.config = {
-  disToken: "NjU3NzI4MTYwOTYzNjI0OTYy.XgVEfA.17iPBbd0XqB76bQwYm5-GUbmgOc", // Discord bot token
-  disCID: "657728160963624962", // Discord Client ID
-  disSecret: "Czpqfa8-1ckRAImct9h4dG9M0s6gjYj4", // Discord CLient Secret
-  disUn: "geotiger", // discord username
-  twCID: "igau4ux77mxl0phum6h11psfwy5zbk", // twitch Client ID
-  twSecret: "7y8egsnaqweqkpoq7d0d7bh4yq0lli", // twitch Client Secret
-  twUn: "geobot_twitch" // twitch Username
-}
